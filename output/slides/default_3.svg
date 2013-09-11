@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10in" height="7.5in" viewBox="0 0 720 540" version="1.1">
+  <g text-rendering="geometricPrecision" xml:space="preserve" transform="scale(1,1)">
+<rect x="0" y="0" width="720" height="540" fill="#ffffff" />
+<g transform="matrix(1, 0, 0, 1, 43.2000122, 25.225)">
+  <text font-family="Arial Unicode" font-size="30pt" fill="#000000"><tspan x="200.073914" y="36.482605" textLength="261.796875">Item of the Month</tspan>
+</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 58.2000122, 82.725)">
+  <text font-family="Arial Unicode" font-size="13.5pt" fill="#000000"><tspan x="0" y="17.5028" textLength="49.5703125">Subtitle</tspan>
+</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 56.7000122, 197.85)">
+  <text font-family="Arial Unicode" font-size="13.5pt" fill="#000000"><tspan x="0" y="17.5028" textLength="40.144043">Body1</tspan>
+</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 56.7000122, 256.725)">
+  <text font-family="Arial Unicode" font-size="13.5pt" fill="#000000"><tspan x="0" y="17.5028" textLength="40.144043">Body2</tspan>
+</text>
+</g>
+<text font-family="Arial" font-weight="bold" font-size="18pt" fill="#ffd8cf" opacity="0.75"><tref xlink:href="#tp_0" x="291.836823" y="240.684464" fill="#000000" opacity="0.38" textLength="138.023438"/><tref xlink:href="#tp_1" x="173.272354" y="260.793854" fill="#000000" opacity="0.38" textLength="375.152344"/><tref xlink:href="#tp_2" x="202.302628" y="280.903229" fill="#000000" opacity="0.38" textLength="317.0918"/></text>
+<text font-family="Arial" font-weight="bold" font-size="18pt" fill="#ffd8cf" opacity="0.75"><tspan x="290.988281" y="239.835938" textLength="138.023438" id="tp_0">Evaluation only.</tspan>
+<tspan x="172.423828" y="259.9453" textLength="375.152344" id="tp_1">Created with Aspose.Slides for Java 7.7.0.0.</tspan>
+<tspan x="201.4541" y="280.0547" textLength="317.0918" id="tp_2">Copyright 2004-2013 Aspose Pty Ltd.</tspan>
+</text>
+</g>
+</svg>
